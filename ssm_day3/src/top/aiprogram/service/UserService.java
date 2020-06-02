@@ -1,7 +1,7 @@
 package top.aiprogram.service;
 
 /**
- * @author WeiShiDe
+ * @author Shiko
  * @create 2018-04-19 17:21
  * @desc 接口
  **/

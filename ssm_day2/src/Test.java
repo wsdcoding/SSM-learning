@@ -1,6 +1,7 @@
 //描述自定义注解的注解叫做: 元注解. 下面四种中重点学习前面两个
 
 import java.lang.annotation.*;
+
 @Target(ElementType.METHOD)  //ElementType.FIELD将来目标要用于一个类的（作用域）成员变量，没法用于成员方法
 @Retention(RetentionPolicy.RUNTIME)    //描述注解什么时候要用,.看里面可以看到三种方法
 /*
@@ -9,5 +10,6 @@ import java.lang.annotation.*;
 */
 public @interface Test {
     public String value();
+
     public String desc() default "这是一个描述";
 }

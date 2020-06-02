@@ -6,7 +6,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 */
 /**
- * @author WeiShiDe
+ * @author Shiko
  * @create 2018-04-21 17:35
  * @desc 这是springMVC拦截器类，需要实现一些接口,还要xml声明拦截器
  **//*

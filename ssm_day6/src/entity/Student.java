@@ -1,7 +1,7 @@
 package entity;
 
 /**
- * @author WeiShiDe
+ * @author Shiko
  * @create 2018-04-22 12:29
  * @desc
  **/

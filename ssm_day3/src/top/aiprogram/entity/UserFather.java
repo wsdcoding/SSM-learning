@@ -1,7 +1,7 @@
 package top.aiprogram.entity;
 
 /**
- * @author WeiShiDe
+ * @author Shiko
  * @create
  * @desc
  **/

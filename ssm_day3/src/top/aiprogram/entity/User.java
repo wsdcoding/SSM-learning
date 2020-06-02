@@ -3,7 +3,7 @@ package top.aiprogram.entity;
 import java.util.List;
 
 /**
- * @author WeiShiDe
+ * @author Shiko
  * @create
  * @desc
  **/

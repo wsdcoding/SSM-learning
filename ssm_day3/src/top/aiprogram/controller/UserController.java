@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 import top.aiprogram.service.UserService;
 
 /**
- * @author WeiShiDe
+ * @author Shiko
  * @create
  * @desc
  **/

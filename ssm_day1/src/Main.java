@@ -13,7 +13,7 @@ import java.util.Properties;
 
 public class Main {
 
-    public static void main(String[] args) throws DocumentException {
+    public static void main(String[] args) throws  {
       /*  // 第一种properties读写
         Properties pop = new Properties();
         try {
